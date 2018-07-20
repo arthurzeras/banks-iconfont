@@ -2,6 +2,8 @@
 
 > Versão 1 – Fontes, SVG e CSS
 
+[DEMO](https://arthurzeras.github.io/banks-iconfont/demo/)
+
 A ideia veio da necessidade de melhorar o UX/UI dos sistemas que trabalham com dados bancários.
 
 # Uso básico
