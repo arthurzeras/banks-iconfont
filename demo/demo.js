@@ -22,10 +22,6 @@ var fonts = [
     bank: 'Santander'
   },
   {
-    class: 'bif-sicoob',
-    bank: 'Sicoob'
-  },
-  {
     class: 'bif-hsbc',
     bank: 'HSBC'
   },
