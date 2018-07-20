@@ -38,7 +38,7 @@ fonts.forEach(function(bank) {
 })
 
 function mountCard(obj) {
-  var html = '<div class="col-4 mb-3"><div class="card text-center"><div class="card-body">'
+  var html = '<div class="col-lg-4 col-12 mb-3"><div class="card text-center"><div class="card-body">'
   html += '<i class="' + obj.class + '" style="font-size: 25pt;"></i>'
   html += '<h5 class="card-title">'+ obj.bank +'</h5>'
   html += '<p class="card-text">.'+ obj.class +'</p>'
