@@ -22,6 +22,12 @@ fonts/banks-iconfont.woff
 banks-iconfont.min.css
 ```
 
+## CRIAÇÃO
+
+- Exporte o SVG do ícone em algum software que trabalhe com vetores. (Ex.: Adobe Illustrator);
+- Vá ao site [icomoon](https://icomoon.io/), crie uma conta ou faça login;
+- Dentro do sistema, basta importar os SVGs desejados, selecioná-los e exportar o zip com os arquivos de fonte e css;
+
 
 ## TODO
 Adicionar projeto ao NPM e algum CDN
