@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/arthurzeras/banks-iconfont/issues"
   },
-  "homepage": "https://github.com/arthurzeras/banks-iconfont#readme"
+  "homepage": "https://github.com/arthurzeras/banks-iconfont#readme",
+  "keywords": [
+    "font",
+    "icon",
+    "banksiconfont",
+    "iconfont",
+    "banks",
+    "webicons"
+  ]
 }
