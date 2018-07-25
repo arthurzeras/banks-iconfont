@@ -1,6 +1,7 @@
 # Banks Icon Font
 
-> Versão 1 – Fontes, SVG e CSS
+<a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/v/banks-iconfont.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/banks-iconfont.svg" alt="License"></a>
 
 [DEMO](https://arthurzeras.github.io/banks-iconfont/demo/)
 
