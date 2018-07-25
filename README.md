@@ -12,6 +12,9 @@ A ideia veio da necessidade de melhorar o UX/UI dos sistemas que trabalham com d
 ```npm i --save banks-iconfont ```
 
 ### Manual
+
+[Download ZIP](https://github.com/arthurzeras/banks-iconfont/archive/1.0.1.zip)
+
 Coloque os arquivos de fonte e css no assets do seu projeto na seguinte estrutura:
 
 ``` bash
