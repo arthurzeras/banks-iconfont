@@ -6,7 +6,7 @@
 
 A ideia veio da necessidade de melhorar o UX/UI dos sistemas que trabalham com dados bancários.
 
-# Uso básico
+# Instalação
 
 ### NPM
 ```npm i --save banks-iconfont ```
