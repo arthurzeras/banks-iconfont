@@ -8,6 +8,10 @@ A ideia veio da necessidade de melhorar o UX/UI dos sistemas que trabalham com d
 
 # Uso básico
 
+### NPM
+```npm i --save banks-iconfont ```
+
+### Manual
 Coloque os arquivos de fonte e css no assets do seu projeto na seguinte estrutura:
 
 ``` bash
@@ -30,4 +34,4 @@ banks-iconfont.min.css
 
 
 ## TODO
-Adicionar projeto ao NPM e algum CDN
+Adicionar em algum CDN
